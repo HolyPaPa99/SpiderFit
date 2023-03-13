@@ -1,6 +1,6 @@
 # SpiderFit
 
-https://github.com/HolyPaPa99/SpiderFit
+https://apps.apple.com/app/id6444226124
 
 
 I declare that the Spider Fit application will not collect any user information. If we use user information in future versions, we will update the relevant statement of the user privacy policy and inform you.
