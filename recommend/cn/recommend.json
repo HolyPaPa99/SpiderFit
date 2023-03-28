@@ -1,0 +1,36 @@
+[
+	{
+		"id":"1",
+		"url":"https://player.bilibili.com/player.html?aid=458946433&bvid=BV1a5411J7V9&cid=290949604&page=1&high_quality=1&danmaku=0",
+		"title":"21天健身挑战】15分钟有氧运动，超燃脂，瘦全身！突破自己，加速瘦身",
+		"source":"https://www.bilibili.com/video/BV1a5411J7V9/?share_source=copy_web&vd_source=734db9cd4370d1a4758f128bb42451bc",
+		"routines":[{
+			"id":"1",
+			"name":"Boxing Workout",
+			"backgroundImage":"image1",
+			"trainedTimes": 0,
+			"rounds":[]
+		}]
+	},
+	{
+		"id":"2",
+		"url":"https://player.bilibili.com/player.html?aid=855565130&bvid=BV19L4y1w7zN&cid=799799389&page=1&high_quality=1&danmaku=0",
+		"title":"一口气讲完健身训练 | 分化 动作 配重（附健身计划）",
+		"source":"https://www.bilibili.com/video/BV19L4y1w7zN/?share_source=copy_web&vd_source=734db9cd4370d1a4758f128bb42451bc",
+		"routines":[]
+	},
+	{
+		"id":"3",
+		"url":"https://player.bilibili.com/player.html?aid=772329707&bvid=BV1g14y1x7zq&cid=811079247&page=1&high_quality=1&danmaku=0",
+		"title":"【帕梅拉-30分钟有氧健身操合集！暴汗燃脂瘦全身！热身-腹部训练-拳击操-瘦大腿-拉伸】",
+		"source":"https://www.bilibili.com/video/BV1g14y1x7zq/?share_source=copy_web&vd_source=734db9cd4370d1a4758f128bb42451bc",
+		"routines":[]
+	},
+	{
+		"id":"4",
+		"url":"https://player.bilibili.com/player.html?aid=476360829&bvid=BV1VK411z7BY&cid=923219081&page=1&high_quality=1&danmaku=0",
+		"title":"【“开始健身后，才发现彭于晏说的都是真的！”】",
+		"source":"https://www.bilibili.com/video/BV1VK411z7BY/?share_source=copy_web&vd_source=734db9cd4370d1a4758f128bb42451bc",
+		"routines":[]
+	}
+]
